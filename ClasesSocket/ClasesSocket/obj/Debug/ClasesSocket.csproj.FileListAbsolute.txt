@@ -10,3 +10,8 @@ D:\DAM-2\DOCUMENTOS\PROG_SERVICIOS_PROCESOS\UD 4 TCPIP\ClasesSocket\ClasesSocket
 D:\DAM-2\DOCUMENTOS\PROG_SERVICIOS_PROCESOS\UD 4 TCPIP\ClasesSocket\ClasesSocket\obj\Debug\ClasesSocket.csproj.CoreCompileInputs.cache
 D:\DAM-2\DOCUMENTOS\PROG_SERVICIOS_PROCESOS\UD 4 TCPIP\ClasesSocket\ClasesSocket\obj\Debug\ClasesSocket.dll
 D:\DAM-2\DOCUMENTOS\PROG_SERVICIOS_PROCESOS\UD 4 TCPIP\ClasesSocket\ClasesSocket\obj\Debug\ClasesSocket.pdb
+G:\DAM-2\DOCUMENTOS\PROG_SERVICIOS_PROCESOS\UD 4 TCPIP\ClasesSocket\ClasesSocket\bin\Debug\ClasesSocket.dll
+G:\DAM-2\DOCUMENTOS\PROG_SERVICIOS_PROCESOS\UD 4 TCPIP\ClasesSocket\ClasesSocket\bin\Debug\ClasesSocket.pdb
+G:\DAM-2\DOCUMENTOS\PROG_SERVICIOS_PROCESOS\UD 4 TCPIP\ClasesSocket\ClasesSocket\obj\Debug\ClasesSocket.csprojAssemblyReference.cache
+G:\DAM-2\DOCUMENTOS\PROG_SERVICIOS_PROCESOS\UD 4 TCPIP\ClasesSocket\ClasesSocket\obj\Debug\ClasesSocket.dll
+G:\DAM-2\DOCUMENTOS\PROG_SERVICIOS_PROCESOS\UD 4 TCPIP\ClasesSocket\ClasesSocket\obj\Debug\ClasesSocket.pdb
